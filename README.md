@@ -6,7 +6,7 @@
 
 <h2 align="center">A passionate software developer from Nairobi, Kenya</h2>
 
-<p align ="center"> I am a self-taught software developer who is passionate about creating accessible technologies for everyone.<br> I enjoy challenges and working with new technologies to stretch my tenancity. </p>
+<p align ="center"> I am a self-taught software developer leaning towards Frontend Technologies who is passionate about creating accessible technologies for everyone.<br> I enjoy challenges and working with new technologies to stretch my tenancity. </p>
 
 
 
