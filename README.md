@@ -12,9 +12,9 @@
 
 - 🌱 I am currently on a deep dive with **Javascript and NodeJS**.
 
-- 👯 I am open to collaborate on **any open sourced project**.
+- 👯 I am open to collaborate on **any open source project(s)**.
 
-- 📫 How to reach me **winniemagoma@gmail.com**
+
 
 <h3 align="left">Connect with me :earth_africa::</h3>
 <p align="left"> Always building new things on 
