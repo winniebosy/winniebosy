@@ -5,8 +5,8 @@
 <h2 align="center">A passionate Accessibility Developer from Nairobi, Kenya</h2>
 
  - 🌱  I am a self taught Frontend developer and passionate about creating accessible technologies for everyone.
- - 🌱 I’m interested in Front-End Develo
- - 🌱 I've built projects using semantic HTML5, CSS3, Vanilla JS, ARIA and WCAG practices.
+ - 🌱 I’m interested in Front-End Development
+ - 🌱 I build projects using semantic HTML5, CSS3, Vanilla JS, ARIA and WCAG practices.
  - 🌱 I enjoy challenges and working with new technologies to stretch my tenancity.
  - 💞️ I’m looking to collaborate on projects to gain more experience
 
